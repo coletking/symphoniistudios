@@ -1,0 +1,128 @@
+
+.parkagecontent{
+  width: 100%;
+  padding-top: 2rem;
+  height: 100vh;
+  background-color: #140B5C;
+}
+
+.parkagebody{
+width:80%;
+margin: auto auto; 
+text-align: center;
+color: white;
+font-weight: bold;
+}
+
+.parkageheader{
+  padding-bottom: 2rem;
+}
+
+.customice {
+  background-color: #30e1a3;
+  padding: 1rem;
+  width: 50%;
+  margin: auto auto;
+ text-transform: capitalize;
+ font-style: italic;
+ cursor: pointer;
+ text-decoration: none;
+}
+
+.parkagebody a {
+  text-decoration: none;
+}
+
+.logmain{
+  display: flex;
+  justify-content: center;
+
+}
+
+.logotopick img{
+  height: 70px;
+  margin: 2rem;
+}
+
+.conta{
+  background-color: white;
+  color: black;
+}
+
+.contentiten{
+  border: 1px solid black;
+  width: 100%;
+  
+  
+}
+
+.itemumber{
+  height: 3rem;
+}
+
+
+
+.thecontent{
+  width: 90%;
+  margin: auto auto;
+
+ 
+}
+.itenprice{
+  border-radius: 80% 80% 0% 0%;
+  background-color: #30e1a3;
+ 
+ 
+  
+}
+
+.thecontent{
+  display: flex;
+  justify-content: space-evenly;
+  gap: 10px;
+}
+
+.resultbody{
+  display: flex;
+  justify-content: space-evenly;
+  
+  
+}
+
+.checkarea{
+  font-size: 9px;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+
+.spanamount{
+  background-color: #140B5C;
+  margin-left: 1rem;
+  color: white;
+  padding: 0.1rem  0.3rem 0 0.3rem;
+  border-radius: 30%;
+}
+ 
+
+  .mainitemshow{
+    background-color: #140B5C;
+    height: 21px;
+    padding: 2rem;
+    margin-top: 2rem;
+    color: white;
+    display: flex;
+    align-items: center;
+  }
+
+  .logoseleced{
+    background-color:#30e1a3;
+    height: 21px;
+    padding: 2rem;
+    
+    color: white;
+    display: flex;
+    align-items: center;
+  }
+
+
+
